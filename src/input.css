@@ -1,3 +1,51 @@
 @import "tailwindcss/base";
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
+
+/* --------------- BACKGROUND COLORS --------------- */
+
+.bg-primary {
+  background-color: #ffcc4a;
+}
+
+.bg-secondary {
+  background-color: #4eaf4e;
+}
+
+.bg-complimentary {
+  background-color: #f7f7f7;
+}
+
+/* --------------- TEXT COLORS --------------- */
+
+.text-primary {
+  color: #ffcc4a;
+}
+
+.text-secondary {
+  color: #4eaf4e;
+}
+
+.text-subtitle {
+  color: #a5a5a5;
+}
+
+/* --------------- CONTAINERS --------------- */
+
+.max-container {
+  max-width: 1440px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.default-container {
+  max-width: 92%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  line-height: 1.75rem;
+}

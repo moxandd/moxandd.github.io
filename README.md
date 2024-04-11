@@ -1,8 +1,19 @@
-# React + Vite
+<p align="center"><img src="https://i.postimg.cc/Ssb5TDfZ/Spot-logo.png" /></p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### SPOT: --- FRONTEND
 
-Currently, two official plugins are available:
+SPOT SERVICE MAIN WEB-SITE.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## How to Run (For Demonstration)
+
+**Prerequisites**
+
+- **Python 3.10 - Python 3.12:**
+
+Type and run the follwoing commands in the terminal:
+
+1. `npm install`
+
+2. `npm run watch`
+
+3. `npm run dev`
