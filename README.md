@@ -8,7 +8,7 @@ SPOT SERVICE MAIN WEB-SITE.
 
 **Prerequisites**
 
-- **Python 3.10 - Python 3.12:**
+- **Node Npm**
 
 Type and run the follwoing commands in the terminal:
 
